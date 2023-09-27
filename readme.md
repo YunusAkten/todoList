@@ -1,4 +1,4 @@
-# Patika Jss Odev 2
+# Patika Js Odev 2
 
 ## To-do List
 
